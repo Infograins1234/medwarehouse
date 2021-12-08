@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3B97FAF8-62A2-4B18-81C2-FB6DC9EF537A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E35ED893-8D53-4467-93F3-AEF135C7C6A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MedWarehouse/VendorSide/LoginSignupModel/Controller/StartPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "StartPageVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E35ED893-8D53-4467-93F3-AEF135C7C6A5 - c5dc8e5d7e6d4efc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MedWarehouse.StartPageVC.arrImage.getter : Swift.Array&lt;__C.UIImage&gt;"
+                  moduleName = "MedWarehouse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/Current%20Project/MedwareHouse/Medwarehouse/MedWarehouse/VendorSide/LoginSignupModel/Controller/StartPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "E35ED893-8D53-4467-93F3-AEF135C7C6A5 - b8936687a89acf50"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MedWarehouse.StartPageVC.arrImage.setter : Swift.Array&lt;__C.UIImage&gt;"
+                  moduleName = "MedWarehouse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/Current%20Project/MedwareHouse/Medwarehouse/MedWarehouse/VendorSide/LoginSignupModel/Controller/StartPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "E35ED893-8D53-4467-93F3-AEF135C7C6A5 - efa287cef5d7ed7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MedWarehouse.StartPageVC.arrImage.modify : Swift.Array&lt;__C.UIImage&gt;"
+                  moduleName = "MedWarehouse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/Current%20Project/MedwareHouse/Medwarehouse/MedWarehouse/VendorSide/LoginSignupModel/Controller/StartPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "E35ED893-8D53-4467-93F3-AEF135C7C6A5 - d69775cb870b390"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MedWarehouse.StartPageVC.arrImage.modify : Swift.Array&lt;__C.UIImage&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MedWarehouse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/Current%20Project/MedwareHouse/Medwarehouse/MedWarehouse/VendorSide/LoginSignupModel/Controller/StartPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "E35ED893-8D53-4467-93F3-AEF135C7C6A5 - 950441a31471478b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MedWarehouse.StartPageVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MedWarehouse.StartPageVC"
+                  moduleName = "MedWarehouse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/Current%20Project/MedwareHouse/Medwarehouse/MedWarehouse/VendorSide/LoginSignupModel/Controller/StartPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "602">
+               </Location>
+               <Location
+                  uuid = "E35ED893-8D53-4467-93F3-AEF135C7C6A5 - 78fa4db9206e78cf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MedWarehouse.StartPageVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MedWarehouse.StartPageVC&gt;"
+                  moduleName = "MedWarehouse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documents/Current%20Project/MedwareHouse/Medwarehouse/MedWarehouse/VendorSide/LoginSignupModel/Controller/StartPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "543">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B582DBE-9CD1-4E99-9F80-31EED1A0EC12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MedWarehouse/VendorSide/SideMenuVC/Controller/OpenPDFViewVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "openPDF()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
